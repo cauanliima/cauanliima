@@ -15,7 +15,8 @@
      <img align="center" alt="cauan-VueJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png">
      <img align="center" alt="cauan-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
      <img align="center" alt="cauan-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-      <img align="center" alt="cauan-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"> 
+     <img align="center" alt="cauan-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+     <img align="center" alt="cauan-Arduino" height="30" width="40" src=" https://cdn-icons-png.flaticon.com/512/919/919855.png">
  </div>
   
 <div>
