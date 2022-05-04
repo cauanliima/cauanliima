@@ -15,8 +15,7 @@
      <img align="center" alt="cauan-VueJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png">
      <img align="center" alt="cauan-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
      <img align="center" alt="cauan-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-     <img align="center" alt="linux-MySQL" height="30" width="40" src="     https://w7.pngwing.com/pngs/415/436/png-transparent-linux-distribution-scalable-graphics-tux-computer-icons-linux-logo-vertebrate-monochrome.png
-">
+     <img align="center" alt="linux-MySQL" height="30" width="40" src="https://w7.pngwing.com/pngs/415/436/png-transparent-linux-distribution-scalable-graphics-tux-computer-icons-linux-logo-vertebrate-monochrome.png">
      <img align="center" alt="cauan-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
      <img align="center" alt="cauan-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/raspberry-pi-logo_resized_256.png">
  </div>
