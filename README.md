@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cauanliima
 ![Cauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanliima&show_icons=true&theme=radical)
-![Cauan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cauanliima)](https://github.com/anuraghazra/github-readme-stats)
-
+![Cauan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cauanliima)]
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
