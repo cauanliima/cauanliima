@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @cauanliima
-![Cauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanliima&show_icons=true&theme=radical)
-![Cauan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cauanliima)]
+
+<div>
+  <a href="https://github.com/gjmoura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauanliima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanliima&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
