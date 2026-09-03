@@ -1,40 +1,49 @@
-- 👋 Hi, I’m @cauanliima
+# 👋 Hi, I'm Cauan Lima
 
- <div style="display:flex">
-  <a href="https://github.com/cauanliima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauanliima&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanliima&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-   
-<div style="display: inline_block"><br>
-     <img align="center" alt="cauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="center" alt="cauan-c++" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-     <img align="center" alt="cauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="cauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     <img align="center" alt="cauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="cauan-VueJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png">
-     <img align="center" alt="cauan-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-     <img align="center" alt="cauan-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-     <img align="center" alt="linux-MySQL" height="30" width="40" src="https://w7.pngwing.com/pngs/415/436/png-transparent-linux-distribution-scalable-graphics-tux-computer-icons-linux-logo-vertebrate-monochrome.png">
-     <img align="center" alt="cauan-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
-     <img align="center" alt="cauan-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/raspberry-pi-logo_resized_256.png">
- </div>
-  
-<div>
-     <a href="https://www.linkedin.com/in/cauan-marcelo-lima-53ab27212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      <a href = "mailto:cauanmarcelolima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.instagram.com/cauanliima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+### DevOps & Cloud Engineer | Kubernetes | GitOps | Terraform | CI/CD | Observability
+
+DevOps & Cloud Engineer focused on **infrastructure automation, Kubernetes, cloud computing and platform engineering**.
+
+I have **5 years of experience working on research projects at UFRN** and **3 years of professional experience working as a contractor for the Tribunal de Contas do Estado do Rio Grande do Norte (TCE-RN)**, contributing to infrastructure, application platforms and automation.
+
+### 🚀 What I work with
+
+* ☸️ **Kubernetes** — cluster management and application platforms
+* 🔄 **GitOps** — Argo CD
+* 🦊 **GitLab** — repository management and CI/CD pipelines
+* 🔐 **HashiCorp Vault** — secrets management
+* 📊 **Observability** — OpenTelemetry, Prometheus & Grafana
+* 🏗️ **Infrastructure as Code** — Terraform
+* 🖥️ **Virtualization** — Proxmox & VMware
+* 🌐 **Networking** — Firewalls, proxies and infrastructure services
+* ☁️ **Cloud** — Cloud infrastructure and architecture
+
+### 🛠️ Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="40" height="40" alt="Helm"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible"/>
+</p>
+
+
+### 📫 Connect with me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/cauan-marcelo-lima-53ab27212/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:cauanmarcelolima@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
-  
-  
-<!--
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
-<!---
-cauanliima/cauanliima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+💡 **Interested in:** DevOps • Cloud • Kubernetes • Platform Engineering • GitOps • CI/CD • Infrastructure as Code • Observability • Automation
