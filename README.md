@@ -1,28 +1,30 @@
 # 👋 Hi, I'm Cauan Lima
 
-### DevOps & Cloud Engineer | Kubernetes | GitOps | Terraform | CI/CD | Observability
+### Senior DevOps & Cloud Engineer | Kubernetes | Microsoft Azure | Terraform | GitOps | CI/CD | Platform Engineering
 
-DevOps & Cloud Engineer focused on **infrastructure automation, Kubernetes, cloud computing and platform engineering**.
+I'm a **DevOps & Cloud Engineer** specializing in infrastructure automation, cloud-native technologies, Kubernetes orchestration, and platform engineering.
 
-I have **5 years of experience working on research projects at UFRN** and **3 years of professional experience working as a contractor for the Tribunal de Contas do Estado do Rio Grande do Norte (TCE-RN)**, contributing to infrastructure, application platforms and automation.
+With **3 years of professional experience in DevOps engineering** and **5 years of experience contributing to research and technology projects at the Federal University of Rio Grande do Norte (UFRN)**, I have worked on designing, implementing, and maintaining infrastructure solutions, automation workflows, and application platforms.
 
-### 🚀 What I work with
+My experience combines **cloud infrastructure, container orchestration, Infrastructure as Code (IaC), CI/CD automation, and observability**, with a strong focus on scalability, reliability, security, and operational efficiency.
 
-* ☸️ **Kubernetes** — cluster management and application platforms
-* 🔄 **GitOps** — Argo CD
-* 🦊 **GitLab** — repository management and CI/CD pipelines
-* 🔐 **HashiCorp Vault** — secrets management
-* 📊 **Observability** — OpenTelemetry, Prometheus & Grafana
-* 🏗️ **Infrastructure as Code** — Terraform
-* 🖥️ **Virtualization** — Proxmox & VMware
-* 🌐 **Networking** — Firewalls, proxies and infrastructure services
-* ☁️ **Cloud** — Cloud infrastructure and architecture
+### 🚀 Core Expertise
 
-### 🛠️ Technologies
+- ☸️ **Kubernetes & Container Orchestration** — Kubernetes, Docker, Helm and cluster administration.
+- ☁️ **Cloud & Infrastructure** — Microsoft Azure, networking, and infrastructure management.
+- 🏗️ **Infrastructure as Code (IaC)** — Terraform, infrastructure provisioning, and automation.
+- 🔄 **GitOps & CI/CD** — Argo CD, GitLab CI/CD, automated deployment pipelines, and release management.
+- 🔐 **Security & Secrets Management** — HashiCorp Vault, secrets management, and infrastructure security.
+- 📊 **Observability & Monitoring** — Prometheus, Grafana, OpenTelemetry, distributed tracing, and monitoring.
+- 🖥️ **Virtualization & Infrastructure** — Proxmox VE, VMware, Linux, networking, and on-premises environments.
+- ⚙️ **Automation & Configuration Management** — Ansible, scripting, and infrastructure automation.
+
+### 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Microsoft Azure"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
@@ -32,6 +34,12 @@ I have **5 years of experience working on research projects at UFRN** and **3 ye
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible"/>
 </p>
 
+### 🎓 Certifications & Education
+
+- **Certified Kubernetes Administrator (CKA)** — CNCF
+- Bachelor's Degree in Computer Engineering — UFRN
+- Bachelor's Degree in Science and Technology — UFRN
+- Specialization in Industry 4.0 — UPE
 
 ### 📫 Connect with me
 
@@ -46,4 +54,4 @@ I have **5 years of experience working on research projects at UFRN** and **3 ye
 
 ---
 
-💡 **Interested in:** DevOps • Cloud • Kubernetes • Platform Engineering • GitOps • CI/CD • Infrastructure as Code • Observability • Automation
+💡 **Areas of Interest:** DevOps Engineering • Cloud Computing • Microsoft Azure • Kubernetes • Platform Engineering • GitOps • Infrastructure as Code • CI/CD • Observability • Automation
