@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cauan Lima
 
-### Senior DevOps & Cloud Engineer | Kubernetes | Microsoft Azure | Terraform | GitOps | CI/CD | Platform Engineering
+### DevOps Engineer | Infrastructure Automation | Kubernetes | Microsoft Azure | Terraform | GitOps | CI/CD | Platform Engineering 
 
 I'm a **DevOps & Cloud Engineer** specializing in infrastructure automation, cloud-native technologies, Kubernetes orchestration, and platform engineering.
 
